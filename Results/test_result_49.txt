@@ -1,0 +1,171 @@
+1_Random1.txt:
+- Backtracking: 2 culori (0.0012 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 4.3E-4 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 3.5E-4 ms, Accuracy = 100.0%
+
+2_Random2.txt:
+- Backtracking: 2 culori (5.0E-4 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 4.4E-4 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 3.4E-4 ms, Accuracy = 100.0%
+
+3_Random3.txt:
+- Backtracking: 2 culori (5.0E-4 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 6.8E-4 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 3.9E-4 ms, Accuracy = 100.0%
+
+4_Random4.txt:
+- Backtracking: 2 culori (7.0E-4 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 5.3E-4 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 4.4E-4 ms, Accuracy = 100.0%
+
+5_C4.txt:
+- Backtracking: 2 culori (5.0E-4 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 5.3E-4 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 4.9E-4 ms, Accuracy = 100.0%
+
+6_C5.txt:
+- Backtracking: 3 culori (0.001 ms)
+- Greedy cu grad: avg result 3.0 culori, avg time 7.4E-4 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 3.0 culori, avg time 5.0E-4 ms, Accuracy = 100.0%
+
+7_S4.txt:
+- Backtracking: 2 culori (6.0E-4 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 4.3E-4 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 3.3E-4 ms, Accuracy = 100.0%
+
+8_S5.txt:
+- Backtracking: 2 culori (6.0E-4 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 6.1E-4 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 4.4E-4 ms, Accuracy = 100.0%
+
+9_K4.txt:
+- Backtracking: 4 culori (0.0019 ms)
+- Greedy cu grad: avg result 4.0 culori, avg time 6.0E-4 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 4.0 culori, avg time 4.7E-4 ms, Accuracy = 100.0%
+
+10_K5.txt:
+- Backtracking: 5 culori (0.007 ms)
+- Greedy cu grad: avg result 5.0 culori, avg time 8.5E-4 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 5.0 culori, avg time 7.5E-4 ms, Accuracy = 100.0%
+
+11_MediumGraph12.txt:
+- Backtracking: 4 culori (0.0144 ms)
+- Greedy cu grad: avg result 5.0 culori, avg time 0.00235 ms, Accuracy = 0.0%
+- Greedy DSATUR: avg result 4.9 culori, avg time 0.00171 ms, Accuracy = 12.0%
+
+12_MediumGraph15.txt:
+- Backtracking: 4 culori (0.0165 ms)
+- Greedy cu grad: avg result 4.1 culori, avg time 0.00249 ms, Accuracy = 94.0%
+- Greedy DSATUR: avg result 4.0 culori, avg time 0.00175 ms, Accuracy = 100.0%
+
+13_MediumGraph20.txt:
+- Backtracking: 5 culori (2.0674 ms)
+- Greedy cu grad: avg result 5.3 culori, avg time 0.00421 ms, Accuracy = 74.0%
+- Greedy DSATUR: avg result 6.0 culori, avg time 0.00304 ms, Accuracy = 0.0%
+
+14_MediumGraph25.txt:
+- Backtracking: 5 culori (12.6629 ms)
+- Greedy cu grad: avg result 6.0 culori, avg time 0.0059 ms, Accuracy = 0.0%
+- Greedy DSATUR: avg result 5.5 culori, avg time 0.00426 ms, Accuracy = 51.0%
+
+15_MediumGraph30.txt:
+- Backtracking: 5 culori (1.5801 ms)
+- Greedy cu grad: avg result 6.0 culori, avg time 0.00741 ms, Accuracy = 0.0%
+- Greedy DSATUR: avg result 6.2 culori, avg time 0.0068 ms, Accuracy = 0.0%
+
+16_MediumGraph32.txt:
+- Backtracking: 5 culori (70.8328 ms)
+- Greedy cu grad: avg result 6.1 culori, avg time 0.00818 ms, Accuracy = 0.0%
+- Greedy DSATUR: avg result 6.0 culori, avg time 0.00687 ms, Accuracy = 0.0%
+
+17_BipartiteGraph45.txt:
+- Backtracking: 2 culori (0.0032 ms)
+- Greedy cu grad: avg result 3.0 culori, avg time 0.01386 ms, Accuracy = 0.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 0.01216 ms, Accuracy = 100.0%
+
+18_BipartiteGraph50.txt:
+- Backtracking: 2 culori (0.0036 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 0.01535 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 0.02031 ms, Accuracy = 100.0%
+
+19_BipartiteGraph55.txt:
+- Backtracking: 2 culori (0.0043 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 0.01724 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 0.02212 ms, Accuracy = 100.0%
+
+20_BipartiteGraph60.txt:
+- Backtracking: 2 culori (0.0046 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 0.01932 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 0.02585 ms, Accuracy = 100.0%
+
+21_DenseGraph16.txt:
+- Backtracking: 8 culori (55.4681 ms)
+- Greedy cu grad: avg result 8.5 culori, avg time 0.00508 ms, Accuracy = 50.0%
+- Greedy DSATUR: avg result 8.3 culori, avg time 0.00502 ms, Accuracy = 73.0%
+
+22_DenseGraph18.txt:
+- Backtracking: 10 culori (18.43 s)
+- Greedy cu grad: avg result 10.0 culori, avg time 0.00464 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 10.0 culori, avg time 0.00424 ms, Accuracy = 100.0%
+
+23_DenseGraph20.txt:
+- Backtracking: 8 culori (1.638 s)
+- Greedy cu grad: avg result 8.9 culori, avg time 0.00593 ms, Accuracy = 6.0%
+- Greedy DSATUR: avg result 8.6 culori, avg time 0.00512 ms, Accuracy = 44.0%
+
+24_DenseGraph22.txt:
+- Backtracking: 8 culori (688.2307 ms)
+- Greedy cu grad: avg result 8.6 culori, avg time 0.00687 ms, Accuracy = 39.0%
+- Greedy DSATUR: avg result 8.3 culori, avg time 0.00608 ms, Accuracy = 74.0%
+
+25_PlanarGraph15.txt:
+- Backtracking: 4 culori (0.0144 ms)
+- Greedy cu grad: avg result 4.0 culori, avg time 0.00237 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 4.0 culori, avg time 0.00167 ms, Accuracy = 100.0%
+
+26_PlanarGraph18.txt:
+- Backtracking: 3 culori (0.0058 ms)
+- Greedy cu grad: avg result 3.0 culori, avg time 0.00287 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 3.0 culori, avg time 0.0022 ms, Accuracy = 100.0%
+
+27_PlanarGraph20.txt:
+- Backtracking: 2 culori (0.0011 ms)
+- Greedy cu grad: avg result 2.0 culori, avg time 0.00371 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 2.0 culori, avg time 0.00248 ms, Accuracy = 100.0%
+
+28_PlanarGraph25.txt:
+- Backtracking: 3 culori (0.0373 ms)
+- Greedy cu grad: avg result 3.0 culori, avg time 0.00468 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 3.0 culori, avg time 0.00283 ms, Accuracy = 100.0%
+
+29_PlanarGraph30.txt:
+- Backtracking: 4 culori (14.561 s)
+- Greedy cu grad: avg result 4.0 culori, avg time 0.00594 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 4.0 culori, avg time 0.00489 ms, Accuracy = 100.0%
+
+30_MultiComponentGraph22.txt:
+- Backtracking: 5 culori (3.6024 ms)
+- Greedy cu grad: avg result 5.0 culori, avg time 0.00373 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 5.0 culori, avg time 0.00313 ms, Accuracy = 100.0%
+
+31_MultiComponentGraph30.txt:
+- Backtracking: 4 culori (0.1375 ms)
+- Greedy cu grad: avg result 4.0 culori, avg time 0.00493 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 4.0 culori, avg time 0.00346 ms, Accuracy = 100.0%
+
+32_MultiComponentGraph25.txt:
+- Backtracking: 6 culori (0.2665 ms)
+- Greedy cu grad: avg result 6.0 culori, avg time 0.00471 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 6.0 culori, avg time 0.0044 ms, Accuracy = 100.0%
+
+33_MultiComponentGraph31.txt:
+- Backtracking: 4 culori (0.0054 ms)
+- Greedy cu grad: avg result 4.0 culori, avg time 0.0059 ms, Accuracy = 100.0%
+- Greedy DSATUR: avg result 4.0 culori, avg time 0.00383 ms, Accuracy = 100.0%
+
+Total times:
+- Backtracking: 35.46429 s
+- Greedy cu grad: 0.16 ms(100 avg) - total time: 0.016 s - Accuracy = 77.7%  - Avg difference = 0.22727272727272727 culori
+- Greedy DSATUR: 0.16 ms(100 avg) - total time: 0.016 s - Accuracy = 83.5% - Avg difference = 0.17181818181818181 culori
+
+--TOTAL TIME: 35.496 s

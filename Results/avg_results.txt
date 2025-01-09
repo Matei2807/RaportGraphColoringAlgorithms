@@ -1,0 +1,332 @@
+Average of 50 Runs:
+
+Test 1:
+  - Total Time: 0.005 s
+  - Backtracking Time: 0.003 s
+  - Greedy Degree Time: 1.428 ms
+  - Greedy DSATUR Time: 0.545 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 2:
+  - Total Time: 0.002 s
+  - Backtracking Time: 0.001 s
+  - Greedy Degree Time: 0.744 ms
+  - Greedy DSATUR Time: 0.531 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 3:
+  - Total Time: 0.002 s
+  - Backtracking Time: 0.001 s
+  - Greedy Degree Time: 0.898 ms
+  - Greedy DSATUR Time: 0.513 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 4:
+  - Total Time: 0.003 s
+  - Backtracking Time: 0.002 s
+  - Greedy Degree Time: 0.828 ms
+  - Greedy DSATUR Time: 0.520 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 5:
+  - Total Time: 0.002 s
+  - Backtracking Time: 0.001 s
+  - Greedy Degree Time: 0.830 ms
+  - Greedy DSATUR Time: 0.569 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 6:
+  - Total Time: 0.003 s
+  - Backtracking Time: 0.002 s
+  - Greedy Degree Time: 0.916 ms
+  - Greedy DSATUR Time: 0.583 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 7:
+  - Total Time: 0.002 s
+  - Backtracking Time: 0.001 s
+  - Greedy Degree Time: 0.556 ms
+  - Greedy DSATUR Time: 0.425 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 8:
+  - Total Time: 0.002 s
+  - Backtracking Time: 0.001 s
+  - Greedy Degree Time: 0.737 ms
+  - Greedy DSATUR Time: 0.516 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 9:
+  - Total Time: 0.004 s
+  - Backtracking Time: 0.003 s
+  - Greedy Degree Time: 0.695 ms
+  - Greedy DSATUR Time: 0.536 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 10:
+  - Total Time: 0.012 s
+  - Backtracking Time: 0.011 s
+  - Greedy Degree Time: 1.015 ms
+  - Greedy DSATUR Time: 0.810 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 11:
+  - Total Time: 0.022 s
+  - Backtracking Time: 0.017 s
+  - Greedy Degree Time: 2.738 ms
+  - Greedy DSATUR Time: 1.916 ms
+  - Greedy Degree Accuracy: 0.000%
+  - Greedy DSATUR Accuracy: 9.340%
+  - Greedy Degree Difference: 1.000
+  - Greedy DSATUR Difference: 0.907
+
+Test 12:
+  - Total Time: 0.025 s
+  - Backtracking Time: 0.020 s
+  - Greedy Degree Time: 2.988 ms
+  - Greedy DSATUR Time: 1.927 ms
+  - Greedy Degree Accuracy: 96.180%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.038
+  - Greedy DSATUR Difference: 0.000
+
+Test 13:
+  - Total Time: 2.275 s
+  - Backtracking Time: 2.267 s
+  - Greedy Degree Time: 4.777 ms
+  - Greedy DSATUR Time: 3.256 ms
+  - Greedy Degree Accuracy: 69.960%
+  - Greedy DSATUR Accuracy: 0.000%
+  - Greedy Degree Difference: 0.300
+  - Greedy DSATUR Difference: 1.000
+
+Test 14:
+  - Total Time: 12.461 s
+  - Backtracking Time: 12.450 s
+  - Greedy Degree Time: 6.140 ms
+  - Greedy DSATUR Time: 4.574 ms
+  - Greedy Degree Accuracy: 0.000%
+  - Greedy DSATUR Accuracy: 49.120%
+  - Greedy Degree Difference: 1.000
+  - Greedy DSATUR Difference: 0.509
+
+Test 15:
+  - Total Time: 1.561 s
+  - Backtracking Time: 1.546 s
+  - Greedy Degree Time: 7.508 ms
+  - Greedy DSATUR Time: 7.323 ms
+  - Greedy Degree Accuracy: 0.000%
+  - Greedy DSATUR Accuracy: 0.000%
+  - Greedy Degree Difference: 1.000
+  - Greedy DSATUR Difference: 1.193
+
+Test 16:
+  - Total Time: 69.898 s
+  - Backtracking Time: 69.882 s
+  - Greedy Degree Time: 8.522 ms
+  - Greedy DSATUR Time: 7.165 ms
+  - Greedy Degree Accuracy: 0.000%
+  - Greedy DSATUR Accuracy: 0.000%
+  - Greedy Degree Difference: 1.044
+  - Greedy DSATUR Difference: 1.000
+
+Test 17:
+  - Total Time: 0.032 s
+  - Backtracking Time: 0.004 s
+  - Greedy Degree Time: 14.213 ms
+  - Greedy DSATUR Time: 13.824 ms
+  - Greedy Degree Accuracy: 0.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 1.075
+  - Greedy DSATUR Difference: 0.000
+
+Test 18:
+  - Total Time: 0.042 s
+  - Backtracking Time: 0.005 s
+  - Greedy Degree Time: 15.359 ms
+  - Greedy DSATUR Time: 21.437 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 19:
+  - Total Time: 0.049 s
+  - Backtracking Time: 0.005 s
+  - Greedy Degree Time: 19.345 ms
+  - Greedy DSATUR Time: 24.276 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 20:
+  - Total Time: 0.055 s
+  - Backtracking Time: 0.006 s
+  - Greedy Degree Time: 20.361 ms
+  - Greedy DSATUR Time: 28.410 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 21:
+  - Total Time: 54.684 s
+  - Backtracking Time: 54.674 s
+  - Greedy Degree Time: 5.132 ms
+  - Greedy DSATUR Time: 4.861 ms
+  - Greedy Degree Accuracy: 53.040%
+  - Greedy DSATUR Accuracy: 77.240%
+  - Greedy Degree Difference: 0.516
+  - Greedy DSATUR Difference: 0.232
+
+Test 22:
+  - Total Time: 17.811 s
+  - Backtracking Time: 17.801 s
+  - Greedy Degree Time: 5.335 ms
+  - Greedy DSATUR Time: 4.350 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 23:
+  - Total Time: 1.598 s
+  - Backtracking Time: 1.586 s
+  - Greedy Degree Time: 6.376 ms
+  - Greedy DSATUR Time: 5.509 ms
+  - Greedy Degree Accuracy: 11.340%
+  - Greedy DSATUR Accuracy: 37.540%
+  - Greedy Degree Difference: 0.887
+  - Greedy DSATUR Difference: 0.625
+
+Test 24:
+  - Total Time: 697.673 s
+  - Backtracking Time: 697.661 s
+  - Greedy Degree Time: 7.017 ms
+  - Greedy DSATUR Time: 5.906 ms
+  - Greedy Degree Accuracy: 36.600%
+  - Greedy DSATUR Accuracy: 75.960%
+  - Greedy Degree Difference: 0.634
+  - Greedy DSATUR Difference: 0.240
+
+Test 25:
+  - Total Time: 0.019 s
+  - Backtracking Time: 0.015 s
+  - Greedy Degree Time: 2.274 ms
+  - Greedy DSATUR Time: 1.604 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 26:
+  - Total Time: 0.011 s
+  - Backtracking Time: 0.007 s
+  - Greedy Degree Time: 2.706 ms
+  - Greedy DSATUR Time: 2.059 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 27:
+  - Total Time: 0.007 s
+  - Backtracking Time: 0.001 s
+  - Greedy Degree Time: 3.556 ms
+  - Greedy DSATUR Time: 2.292 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 28:
+  - Total Time: 0.041 s
+  - Backtracking Time: 0.034 s
+  - Greedy Degree Time: 4.321 ms
+  - Greedy DSATUR Time: 2.585 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 29:
+  - Total Time: 14.714 s
+  - Backtracking Time: 14.703 s
+  - Greedy Degree Time: 5.594 ms
+  - Greedy DSATUR Time: 4.769 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 30:
+  - Total Time: 3.798 s
+  - Backtracking Time: 3.791 s
+  - Greedy Degree Time: 4.082 ms
+  - Greedy DSATUR Time: 3.093 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 31:
+  - Total Time: 0.174 s
+  - Backtracking Time: 0.164 s
+  - Greedy Degree Time: 5.594 ms
+  - Greedy DSATUR Time: 3.833 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 32:
+  - Total Time: 0.313 s
+  - Backtracking Time: 0.303 s
+  - Greedy Degree Time: 5.318 ms
+  - Greedy DSATUR Time: 5.014 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
+Test 33:
+  - Total Time: 0.018 s
+  - Backtracking Time: 0.007 s
+  - Greedy Degree Time: 6.652 ms
+  - Greedy DSATUR Time: 4.296 ms
+  - Greedy Degree Accuracy: 100.000%
+  - Greedy DSATUR Accuracy: 100.000%
+  - Greedy Degree Difference: 0.000
+  - Greedy DSATUR Difference: 0.000
+
