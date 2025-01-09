@@ -1,3 +1,4 @@
+**Authors:** Hutu Matei, Plesa Cosmin, Stelian Tascu
 # Graph Coloring
 
 Acest proiect implementează și evaluează algoritmi pentru colorarea grafurilor folosind următoarele metode:
